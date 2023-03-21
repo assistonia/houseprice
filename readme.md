@@ -1,5 +1,4 @@
 # houseprice
-# houseprice
 
 my test project in houseprice kaggle
 
